@@ -13,6 +13,7 @@ Tech Stack
 
 Project Structure
 -----------------
+```
 selenium-java-saucedemo/
 ├── src/
 │ ├── pages/ # Page object classes
@@ -23,6 +24,7 @@ selenium-java-saucedemo/
 ├── docs/ # PPT project presentation, including test results
 ├── .gitignore
 └── README.md
+```
 
 Running Tests
 -------------
